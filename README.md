@@ -1,4 +1,4 @@
-## 这是？ 👋
+## 你是？
 
 Misaka2298, 一名高一在读OIer, 平常喜欢上Github偷点别人的代码, 比如这个README就是偷的[HelloWRC](https://github.com/HelloWRC)的。
 
