@@ -1,6 +1,6 @@
 ## 你是？
 
-Misaka2298, 一名高二在读OIer, 平常喜欢上Github偷点别人的代码, 比如这个README就是偷的[HelloWRC](https://github.com/HelloWRC)的。
+Misaka2298, 一名高二在读OIer。
 
 ## 总览
 
@@ -24,18 +24,3 @@ Misaka2298, 一名高二在读OIer, 平常喜欢上Github偷点别人的代码, 
 
 - 电子邮件：<Misaka2298@outlook.com>
 - QQ: 2183221872
-
-<!--
-**HelloWRC/HelloWRC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
